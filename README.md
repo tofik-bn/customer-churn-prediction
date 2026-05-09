@@ -47,6 +47,7 @@ Top predictors of churn:
 This insight helps businesses design targeted retention campaigns (e.g., offer tech support and contract upgrades to high‑risk customers).
 
 ## 🚀 Deployment (Streamlit App)
+**🚀 Live Demo:** [customer-churn-prediction.streamlit.app](https://customer-churn-prediction-mwk8ftxw886cyfttdp9avu.streamlit.app/)
 
 The model is deployed as an interactive web app using **Streamlit**:
 
